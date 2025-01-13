@@ -1,1 +1,0 @@
-# Stored-Procedure-of-SQL
